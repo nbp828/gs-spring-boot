@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7d50f704-9973-4b8c-b3ca-e53e6e60b544/resourceGroups/nbp828_rg_Linux_centralus/providers/Microsoft.Web/sites/ingredients-score-002",
+    "appService.deploySubpath": ""
+}
